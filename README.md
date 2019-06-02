@@ -53,7 +53,7 @@ Trained a model based on the images collected by open cv
 
 Ran the trained model and used it to recognize faces in the video feed
 
-###Learned
+### Learned
 How to use open cv to collect data about specific things when they are detected in the video feed
 
 How to train a model on open cv to be able to detect specific things in the video feed
