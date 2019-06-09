@@ -18,7 +18,8 @@ Installed numpy on the pi
 Downloaded and compiled opencv
 
 ### Learned
-How to set up a new pi<br>
+How to set up a new pi
+
 How to create a python virtual environment on the pi
 
 How to compile software on the pi
@@ -58,3 +59,17 @@ How to use open cv to collect data about specific things when they are detected 
 How to train a model on open cv to be able to detect specific things in the video feed
 
 How to run a trained model for detection with a video feed
+
+## Week 4:
+### 2 hours
+### Accomplished 
+Wired led lights on a breadboard connected to the pi
+
+Configured the lights to light up when they see a face
+
+Made it so that the light that lights up coresponds with who the pi sees in the video
+
+### Learned
+How to set up wires with the pi on a breadboard
+
+How to control led lights with python
