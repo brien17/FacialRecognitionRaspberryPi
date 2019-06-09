@@ -18,8 +18,7 @@ Installed numpy on the pi
 Downloaded and compiled opencv
 
 ### Learned
-How to set up a new pi
-
+How to set up a new pi<br>
 How to create a python virtual environment on the pi
 
 How to compile software on the pi
