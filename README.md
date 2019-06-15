@@ -73,3 +73,21 @@ Made it so that the light that lights up coresponds with who the pi sees in the 
 How to set up wires with the pi on a breadboard
 
 How to control led lights with python
+
+## Week 5:
+### 4 hours
+### Accomplished
+Installed flask-ask and ngrok to the raspberry pi
+
+Created an amazon developer account
+
+Created an alexa intent for my program
+
+Got the pi and the alexa to do basic communication tasks
+
+### Learned 
+How to work with flask-ask
+
+How to use the amazon developer tools to create an alexa intent
+
+How to use ngrok 
