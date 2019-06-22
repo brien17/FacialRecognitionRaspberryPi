@@ -1,7 +1,9 @@
 # PersonalProject
-This repository is for a personal project completed for my COP 2001 Programing methodology course. The goal of this project was to build a system that could run on the raspberry pi that could detect and recognize faces from a live video feed. More information about the project can be found in the problem statement file in this repository.
+This repository is for a personal project completed for my COP 2001 Programing methodology course. The goal of this project was to build a system that could run on the raspberry pi that could detect and recognize faces from a live video feed. More information about the project can be found in the problem statement file in this repository. 
 
-This project was made with help from this tutorial: https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826. 
+The facial recognition part of this project was made with help from this tutorial: https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
+
+The alexa integration was made with help from this tutorial: https://www.udemy.com/building-alexa-skills-for-home-automation-with-raspberry-pi/learn/lecture/11254440?start=135#questions
 
 # Timelog
 ## Week 1:
@@ -67,7 +69,7 @@ Wired led lights on a breadboard connected to the pi
 
 Configured the lights to light up when they see a face
 
-Made it so that the light that lights up coresponds with who the pi sees in the video
+Made it so that the light that lights up corresponds with who the pi sees in the video
 
 ### Learned
 How to set up wires with the pi on a breadboard
