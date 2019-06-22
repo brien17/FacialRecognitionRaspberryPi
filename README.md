@@ -91,3 +91,17 @@ How to work with flask-ask
 How to use the amazon developer tools to create an alexa intent
 
 How to use ngrok 
+
+## Week 6:
+### 4 hours
+### Accomplished
+Created a flask-ask python file to run as the backend of my alexa function
+
+Integrated facial recognition into the flask-ask function
+
+Optimized the function to be able to run fast enough to seem responsive over alexa (most of the time)
+
+### Learned
+How to create a functional program with alexa and flask-ask
+
+How to optimize code that is used with alexa
