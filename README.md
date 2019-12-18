@@ -1,9 +1,9 @@
 # PersonalProject
-This repository is a personal project completed for my COP 2001 Programing methodology course. The goal of this project was to build a system that could run on the raspberry pi that could detect and recognize faces from a live video feed. The reason we did this project was so that everyone could do something that was interesting to them. I chose to do facial recognition on the raspberry pi because I am interested in machine learning and thought it would be an interesting challenge to work on a lower power machine like the pi.  More information about the project can be found in the problem statement file in this repository. I ended up finishing the project with time to spare so I added a version that lights up different colored LED's based on who it detects and one that uses alexa to speak the names of the people that it detects in the video. 
+This repository is a personal project completed for my COP 2001 Programing methodology course. The goal of this project was to build a system that could run on the raspberry pi that could detect and recognize faces from a live video feed. The reason we did this project was so that everyone could do something that was interesting to them. I chose to do facial recognition on the raspberry pi because I am interested in machine learning and thought it would be an interesting challenge to work on a lower power machine like the pi.  More information about the project can be found in the problem statement file in this repository. I ended up finishing the project with time to spare so I added a version that lights up different colored LED's based on who it detects and one that uses Alexa to speak the names of the people that it detects in the video. 
 
 The facial recognition part of this project was made with help from this tutorial: https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
 
-The alexa integration was made with help from this tutorial: https://www.udemy.com/building-alexa-skills-for-home-automation-with-raspberry-pi/learn/lecture/11254440?start=135#questions
+The Alexa integration was made with help from this tutorial: https://www.udemy.com/building-alexa-skills-for-home-automation-with-raspberry-pi/learn/lecture/11254440?start=135#questions
 
 # Timelog
 ## Week 1:
